@@ -1,6 +1,6 @@
 Our general approach is modified MYO armband for hand motion classification using capacitive surface electromyography EMG
 electrodes, we intended to manufacture a 3D-printed prosthetic hand designed by hand project company, dc motors with a
-self-lock for fingers motion,raspberry pi and MYO armband . We used Python programming language . and my roll is controlling
+self-lock for fingers motion,Raspberry PI and MYO armband . We used Python programming language . and my roll is controlling
 the 5 dc motors and servo motor , configuration the raspberry pi and assembling the mechanical parts.
 links:
         1-  https://www.facebook.com/etba3ly3d/videos/1228664740514319/ 
